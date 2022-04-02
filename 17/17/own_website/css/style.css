@@ -1,0 +1,9 @@
+nav {
+    height: 50px;
+    background-color:lightgray;
+}
+.block_element {
+    display:inline-block;
+    padding:20px;
+
+}
